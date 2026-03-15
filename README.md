@@ -1,11 +1,10 @@
-i ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Zuheb khan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Zuheb khan
 ===================================================================================================================================
 
 Aspiring Data Analyst
 ---------------------
 
 Hello, my name is Zuheb Khan. I am a fresher and aspiring Data Analyst with a strong interest in working with data and discovering meaningful insights.
-
 I have basic knowledge of Excel, SQL, and data visualization tools, and I enjoy learning new analytical techniques. I am passionate about solving problems using data and improving my analytical skills every day. I am currently looking for opportunities where I can learn, grow, and contribute as a Data Analyst.
 
 * 🌍  I'm based in Hyderabad, India
